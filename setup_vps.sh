@@ -3,6 +3,6 @@
 yum -y install git
 
 cd
-git clone https://renzhn@github.com/renzhn/vps-setup.git
+git clone https://renzhn@bitbucket.org/renzhn/vps-setup.git
 cd vps-setup
 ./setup.sh
